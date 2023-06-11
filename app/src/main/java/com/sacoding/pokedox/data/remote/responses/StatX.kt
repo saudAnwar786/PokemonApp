@@ -1,0 +1,6 @@
+package com.sacoding.pokedox.data.remote.responses
+
+data class StatX(
+    val name: String,
+    val url: String
+)
